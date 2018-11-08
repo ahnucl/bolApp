@@ -1,2 +1,2 @@
 # bolApp 
-##Gerenciador de partidas de futebol (Projeto Integrado)
+### Gerenciador de partidas de futebol (Projeto Integrado)
